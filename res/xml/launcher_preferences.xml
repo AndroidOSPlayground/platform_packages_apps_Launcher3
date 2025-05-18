@@ -24,7 +24,6 @@
         android:title="@string/notification_dots_title"
         android:defaultValue="true"
         android:persistent="true"
-        android:widgetLayout="@layout/notification_pref_warning"
         launcher:logIdOn="611"
         launcher:logIdOff="622" />
 
